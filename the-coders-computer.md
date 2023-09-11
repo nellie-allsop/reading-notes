@@ -17,11 +17,15 @@ Next, let's have a think about your terminal on your computer (that one you set 
 
 In the following scenario, if these commands and arguments are entered into the command line in your terminal:
 
+```
+
 cd projects  
 mkdir new-project  
 touch new-project/newfile.md  
 cd ..  
-ls projects/new-project  
+ls projects/new-project
+
+``` 
 
 Then the following will happen
 
