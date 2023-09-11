@@ -9,38 +9,26 @@ It's an exciting time in your life - you want to settle down with a text editor,
 
 Next, let's have a think about your terminal on your computer (that one you set up the other week thanks to the great instructions from the Tech Educators team). If you type the following commands into your terminal, then these magical things will happen:
 
-`pwd` = Print Working Directory - shows where you are at the moment
-
-`ls` = lists the contents of a directory
-
-`cd` = Change Directories - how you move to another directory
-
-`mkdir` = Make Directory - allows you to create a directory
-
-`touch` = how you make a blank file.
+`pwd` = Print Working Directory - shows where you are at the moment  
+`ls` = lists the contents of a directory  
+`cd` = Change Directories - how you move to another directory  
+`mkdir` = Make Directory - allows you to create a directory  
+`touch` = how you make a blank file.  
 
 In the following scenario, if these commands and arguments are entered into the command line in your terminal:
 
-cd projects
-
-mkdir new-project
-
-touch new-project/newfile.md
-
-cd ..
-
-ls projects/new-project
+cd projects  
+mkdir new-project  
+touch new-project/newfile.md  
+cd ..  
+ls projects/new-project  
 
 Then the following will happen
 
-- Change directories to the directory 'projects'
-  
-- Make a directory called 'new-project'
-  
-- Make a blank file and call that 'newfile.md'
-  
-- Change directories to .. (dots indicate some of the command's normal output has been cut)
-  
-- List the contents of the directory 'projects/new-project'
+- Change directories to the directory 'projects'  
+- Make a directory called 'new-project'  
+- Make a blank file and call that 'newfile.md'  
+- Change directories to .. (dots indicate some of the command's normal output has been cut)  
+- List the contents of the directory 'projects/new-project'  
 
 I hope you enjoyed this short blog post!
