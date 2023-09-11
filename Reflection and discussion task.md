@@ -3,9 +3,9 @@ Reflection and Discussion
 The task: create a page in my reading-notes repo that summarizes the topics I have learned as though I was presenting the material to a non-technical friend interested in learning about it.
 
 The below is based on the following:
-- [Getting started (specifically the sections on 'What is Markdown' and 'Why use Markdown')](
-- Markdown Basic Syntax
-- Mastering Markdown on GitHub
+- [Getting started (specifically the sections on 'What is Markdown' and 'Why use Markdown')](https://www.markdownguide.org/getting-started/)
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Mastering Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 
 Read and Bookmark
 Getting Started
