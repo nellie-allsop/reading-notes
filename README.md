@@ -2,7 +2,7 @@
 
 #### Table of contents
 [Main page]
-[Extra page] (https://nellie-allsop.github.io/reading-notes/extra-fun)
+[Extra page](https://nellie-allsop.github.io/reading-notes/extra-fun)
 
 Hello! My name is Nellie (she/her) and this is my [GitHub portfolio page](https://github.com/nellie-allsop)
 
