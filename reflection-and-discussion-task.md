@@ -1,5 +1,5 @@
 
-# So you want to learn about Markdown, eh?
+# So you want to learn about Markdown, eh
 
 Well, you've come to the right place. Markdown is a type of coding language that allows you to manipulate text so that it appears a certain way when it is rendered. You might ask, *"Well why can't we just use Microsoft Word for that"?* It's true, MS Word can be useful for manipulating text, but Markdown has some clear benefits over it:
 
