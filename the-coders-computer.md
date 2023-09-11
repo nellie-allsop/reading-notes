@@ -25,10 +25,10 @@ In the following scenario, if these commands and arguments are entered into the 
 
 Then the following will happen
 
-- Change directories to the directory 'projects'  
-- Make a directory called 'new-project'  
-- Make a blank file and call that 'newfile.md'  
-- Change directories to .. (dots indicate some of the command's normal output has been cut)  
-- List the contents of the directory 'projects/new-project'  
+1. Change directories to the directory 'projects'
+2. Make a directory called 'new-project'  
+3. Make a blank file and call that 'newfile.md'
+4. Change directories to .. (dots indicate some of the command's normal output has been cut)
+5. List the contents of the directory 'projects/new-project'  
 
 I hope you enjoyed this short blog post!
