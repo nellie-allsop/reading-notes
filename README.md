@@ -1,7 +1,7 @@
 # reading-notes
 
 #### Table of contents
-[Main page]
+[Main page](https://nellie-allsop.github.io/reading-notes)
 [Extra page](https://nellie-allsop.github.io/reading-notes/extra-fun)
 
 Hello! My name is Nellie (she/her) and this is my [GitHub portfolio page](https://github.com/nellie-allsop)
