@@ -2,7 +2,7 @@
 
 Well, you've come to the right place. Markdown is a type of coding language that allows you to manipulate text so that it appears a certain way when it is rendered. You might ask, *"Well why can't we just use Microsoft Word for that"?* It's true, MS Word can be useful for manipulating text, but Markdown has some clear benefits over it:
 
-- Markdown can be transferred about easily, so that means no worrying about whether you can open a document containing some all important information on your phone or not
+- Markdown can be transferred about easily, so that means no worrying about whether you can open a document containing some super important information on your phone or not
 - You can use it to create all sorts of wonderful things, from presentations to websites
 - It allows you to store important information without worrying that the application you've used to create it ceases to work.
 
