@@ -1,5 +1,7 @@
 # reading-notes
 
+Hello! My name is Nellie (she/her) and this is my [GitHub portfolio page] (https://github.com/nellie-allsop)
+
 ## What is a "growth mindset"
 Your mindset equates to what you think about yourself. And a growth mindset is a great mindset to have! When you have a growth mindset, you are open to learning. Someone with a growth mindset would likely:
 - Prepare themself for learning
