@@ -4,7 +4,7 @@ Well, you've come to the right place. Markdown is a type of coding language that
 
 - Markdown can be transferred about easily, so that means no worrying about whether you can open a document containing some super important information on your phone or not
 - You can use it to create all sorts of wonderful things, from presentations to websites
-- It allows you to store important information without worrying that the application you've used to create it ceases to work.
+- It allows you to store important information without worrying that the application you've used to create it on might one day cease to work.
 
 Say you want to create a basic web page using Markdown. You could start off by creating a heading by using a `#`, a space and then the text you want included within that heading. To create the largest type of heading possible in Markdown, you'd use just one of those hash symbols, while six of them would give you the teeniest and smallest of headings.
 
