@@ -40,4 +40,6 @@ Bin day is **fab**, because then all the rubbish is gone, and I can *really* rel
 + You can tell all your friends about the interesting knowledge you've accumulated
 + You'll feel reassured that at least that part of your life is ordered and reliable.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Well, I hope that's been helpful, and stay tuned for more of these guides!
