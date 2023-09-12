@@ -2,7 +2,7 @@
 
 #### Table of contents
 - [Main page](https://nellie-allsop.github.io/reading-notes)
-- [01 Learning markdown task](https://nellie-allsop.github.io/reading-notes/reflection-and-discussion-task.md) 
+- [01 Learning markdown task](https://nellie-allsop.github.io/reading-notes/reflection-and-discussion-task) 
 - [Extra page](https://nellie-allsop.github.io/reading-notes/extra-fun)
 
 Hello! My name is Nellie (she/her) and this is my [GitHub portfolio page](https://github.com/nellie-allsop). Something fun about me is that I like crochet, and it turns out that [it's not too disimilar to coding](https://webscapegardener.co.uk/why-coding-like-crochet/)!
